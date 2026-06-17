@@ -20,6 +20,14 @@ This study confirms that unprocessed photopolymer resin shows cytotoxic and geno
 - Awards: [2nd place at the state level biology competition](https://www.azoo.hr/natjecanja-i-smotre-arhiva/rezultati-drzavnog-natjecanja-iz-biologije-2025-2026/)
 - Journal: [Bioznalac (in Croatian)](https://www.hbd-sbc.hr/bioznalac/)
 
+## License
+- All source code in this repository is licensed under the MIT License.
+- All non-code content (e.g., text, figures, documentation, datasets) is licensed under CC BY 4.0.
+
+See:
+- LICENSE (MIT License)
+- LICENSE-CONTENT (CC BY 4.0)
+
 ## Project Structure
 
 - **3D_models/**
